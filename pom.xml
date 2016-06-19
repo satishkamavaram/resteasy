@@ -132,12 +132,12 @@
             <version>3.0.10.Final</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
+ <!--        <dependency>
     <groupId>org.jboss.resteasy</groupId>
     <artifactId>resteasy-jaxrs</artifactId>
     <version>3.0.10.Final</version>
      <scope>test</scope>
-</dependency>
+</dependency> -->
 
 <!-- https://mvnrepository.com/artifact/org.jboss.resteasy/resteasy-spring -->
 <dependency>
